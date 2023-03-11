@@ -8,4 +8,4 @@ let soma = 0;
         }
     }
     
-console.log('O valor de soma é igual a /$'soma'!);
+console.log(`O valor da soma é ${soma}`);
